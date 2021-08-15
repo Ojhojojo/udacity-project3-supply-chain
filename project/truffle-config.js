@@ -1,6 +1,6 @@
 const HDWalletProvider = require('truffle-hdwallet-provider');
-const infuraKey = "b0d0fa2414374b4e8bea45fea5868ab8";
-const mnemonic = "draw chimney fashion topple over holiday also method update section assist melody";
+const infuraKey = "";
+const mnemonic = "";
 
 /**
  * Use this file to configure your truffle project. It's seeded with some
