@@ -15,7 +15,7 @@ Node v15.14.0
 Web3.js v1.5.1
 
 <br>
----
+
 ### Contract on Rinkeby Network: 
 0x79ad8de67fbf1699f16b6aef06d57fea8c68f7d0
 ### Transaction on Rinkeby Network: 
@@ -24,7 +24,7 @@ Web3.js v1.5.1
 
 
 <br>
----
+
 ## Project Write-up
 ### UML Diagrams
 
@@ -45,7 +45,7 @@ Web3.js v1.5.1
 ![Classes Diagram](images/uml/class-diagram.png)
 
 <br>
----
+
 
 ## Getting Started
 ### Prerequisites
@@ -73,7 +73,7 @@ npm install --save  truffle-hdwallet-provider@1.0.17
 npm install web3    
 ```
 <br>
----
+
 ### Project Setup
 
 ```
@@ -144,7 +144,7 @@ The DApp User Interface when running should look like the images below on:
 ![truffle test](images/ftc_transaction_history.png)
 
 <br>
----
+
 ### Project Deployment
 
 Update the  `const infuraKey` and `const mnemonic` on `truffle-config.js` file
